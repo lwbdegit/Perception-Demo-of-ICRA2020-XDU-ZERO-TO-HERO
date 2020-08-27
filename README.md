@@ -65,8 +65,8 @@ roslaunch daheng_ros camera.launch
 
 ## Video reof the demo
 
-www.xxxx.com
-
+https://pan.baidu.com/s/1Xgl_llHIRke-Ko_9WgBrTw
+idgv
 
 ## Authors
 
