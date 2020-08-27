@@ -46,7 +46,11 @@ catkin_make
 ```
 
 ## Running the Demo
-
+Main packages used:
+roborts_base &
+roborts_bringup &
+roborts_detection &
+daheng_ros
 The operation method is as follows.
 
 ### running the launch file
